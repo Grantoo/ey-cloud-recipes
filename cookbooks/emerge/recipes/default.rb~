@@ -23,8 +23,3 @@
 #   version "2.7.6"
 #   action :install
 # end
-
-package "dev-libs/openssl" do
-  version "0.9.8k"
-  action :install
-end
